@@ -1,4 +1,4 @@
-Code for "Increasing aridity may contribute to similar tree growth responses following first-entry fires and reburns after long-term fire-exclusion"
+# Code for "Increasing aridity may contribute to similar tree growth responses following first-entry fires and reburns after long-term fire-exclusion"
 
 Publisher link: https://www.sciencedirect.com/science/article/pii/S0378112724005383
 
@@ -6,7 +6,7 @@ Data associated with the project is described below and can be downloaded from D
 
 Created by Kevin G. Willson
 
-Code:
+## Code
 
 1 - Question2-3 averaging cores.R = Code to remove undateable cores and average growth between series for each tree
 
@@ -27,7 +27,7 @@ Code:
 9 - Fire severity and RWI~VPD regression code.R = Code to quantify the relationship between tree growth (RWI), aridity (VPD), and fire severity.
 
 
-Data:
+## Data
 
 Annual_tree_size.xlsx - This dataframe contains estimated annual tree sizes for all tree in the analysis. Estimates were calculated using measured tree DBH and annual growth increments from tree core data. Columns are as follows: "Fire", "Patch", "Transect", "Tree" = identification for each tree, "Year" = the year of the estimated size of the tree, "annual_diameter" = estimated dbh of tree for that year in cm. 
 
@@ -53,7 +53,7 @@ PRISM_Monthly_Climate_1990-2005_SPEI.csv - This dataframe contains monthly clima
 
 PRISM_Monthly_Climate_2005-2020_SPEI.csv - This dataframe contains monthly climate data for all plots in the study from 2005-2020, which was used to quantify annual VPD values for that period and to assess seasonal climate-growth correlation patterns with temperature and precipitation. Columns are as follows: "Name" = identification for each plot, "Longitude" = longitude for each plot location, "Latitude" = latitude for each plot location, "Elevation" = elevation of the centroid for the 4-km grid cell the plot occurred in, "Date" = Year and month of the climate data point, "ppt (mm)" = total precipitation for that year/month in millimeters, "tmin (degrees C)" = minimum temperature recorded during that year/month in degrees Celsius, "tmax (degree C)" = maximum temperature recorded during that year/month in degrees Celsius, "vpdmax (hPa)" = maximum vapor pressure deficit recorded during that year/month in Hectopascals.
 
-Spatial Data:
+## Spatial Data
 
 Fire_recurrence_shapefile.shp - Shapefile of fire history in the Gila from 1909-2018 used to make Figure 1. Locations did not experience any fire until 1950 at the earliest. 
 
