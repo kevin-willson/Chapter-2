@@ -1,8 +1,8 @@
-Data and Code for "Increasing aridity may contribute to similar tree growth responses following first-entry fires and reburns after long-term fire-exclusion"
+Code for "Increasing aridity may contribute to similar tree growth responses following first-entry fires and reburns after long-term fire-exclusion"
 
 Publisher link: https://www.sciencedirect.com/science/article/pii/S0378112724005383
 
-Data associated with the project can be found on Dryad: Willson, Kevin; Hurteau, Matthew (2024). Trees have similar growth responses to first-entry fires and reburns following long-term fire exclusion [Dataset]. Dryad. https://doi.org/10.5061/dryad.6djh9w18z
+Data associated with the project is described below and can be downloaded from Dryad: Willson, Kevin; Hurteau, Matthew (2024). Trees have similar growth responses to first-entry fires and reburns following long-term fire exclusion [Dataset]. Dryad. https://doi.org/10.5061/dryad.6djh9w18z
 
 Created by Kevin G. Willson
 
