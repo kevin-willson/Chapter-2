@@ -18,7 +18,7 @@ Code:
 
 5 - Seascorr control check.R = Code to assess climate-growth correlation patterns among burned and control trees
 
-6 - Five-ish year window comparisons burned and control.R = Code to assess pre-fire growth rates among burned and control trees
+6 - Five year window comparisons burned and control.R = Code to assess pre-fire growth rates among burned and control trees
 
 7 - Control vs fire cluster bootstrap comparison.R = Code to make Figure 4, which assesses growth patterns before and after first entry fires and reburns among burned and control trees
 
